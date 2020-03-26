@@ -36,6 +36,7 @@
 - I am feeling very good
 - I am great
 - I'm good
+- good
 
 ## intent:mood_unhappy
 - sad
@@ -48,9 +49,15 @@
 - not very good
 - extremely sad
 - so sad
+- i not good
 
 ## intent:bot_challenge
 - are you a bot?
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:CoronaIntent
+- case of corona in[ India](Country)
+- how many case of corona in india
+- case of corona in india

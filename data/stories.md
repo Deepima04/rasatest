@@ -29,3 +29,16 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## Corona
+* greet
+    - utter_greet
+* CoronaIntent
+    - utter_corona
+
+## New Story
+
+* greet
+    - utter_greet
+* CoronaIntent
+    - utter_corona
